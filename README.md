@@ -12,7 +12,10 @@ URL : http://hdr.undp.org/en/data<br>
 <li>Portail statistique de l'Office des Nations Unies contre la drogue et le crime</i> ;<br>
 URL : https://data.unodc.org/<br>
 <li>El Consejo Ciudadano para la Seguridad Pública y la Justicia Penal A.C., <i>La violencia en los municipios y en las entidades federativas de México (2014)</i> (2015) ;<br>
-URL : http://www.seguridadjusticiaypaz.org.mx/biblioteca/prensa/download/6-prensa/205-la-violencia-en-los-municipios-y-en-las-entidades-federativas-de-mexico-2014.<br>
+URL : http://www.seguridadjusticiaypaz.org.mx/biblioteca/prensa/download/6-prensa/205-la-violencia-en-los-municipios-y-en-las-entidades-federativas-de-mexico-2014<br>
+<li>The Globalization and World Cities (GaWC) Research Network <i>World according to GaWC 2016</i> ;<br>
+URL : http://www.lboro.ac.uk/gawc/world2016t.html<br>
+<li>Sites internet des compagnies de croisières.
   
 Fonds vectoriels issus de :
 <li>GISCO<br>
